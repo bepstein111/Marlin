@@ -1,6 +1,8 @@
-# How To Use This Repository
-
-Please look under branches for titles beginning with" bepstein111-". These are my custom Marlin builds.
+# Marlin-E3-Latest
+Custom Marlin 2.0.x for Stock Ender 3
+  - BLTouch 3.1
+    - Bilinear Bed Levelling enabled
+  - LIN_ADVANCE enabled, not configured
 
 
 # Marlin 3D Printer Firmware
