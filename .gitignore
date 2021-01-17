@@ -28,7 +28,7 @@ _Version.h
 #
 applet/
 *.DS_Store
-
+desktop.ini
 #
 # Misc
 #
@@ -184,3 +184,8 @@ cmake-build-*
 
 #Python
 __pycache__
+
+## USER ADDITIONS
+#Compiled Binaries
+*.bin
+*.CUR
