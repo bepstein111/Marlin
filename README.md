@@ -1,3 +1,8 @@
+# How To Use This Repository
+
+Please look under branches for titles beginning with" bepstein111-". These are my custom Marlin builds.
+
+
 # Marlin 3D Printer Firmware
 
 ![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg)
