@@ -1,3 +1,19 @@
+# Custom Marlin 2.0.x for CR-10 with SKR 1.4 Turbo
+  - Stock CR-10 Frame + Motors
+  - SKR 1.4 Turbo
+  - TMC2209 on XYZ, LV8729 on E
+    - Sensorless Homing on X+Y
+  - BLTouch 3.1 w/ High Speed Probing
+    - UBL enabled
+  - TFT35-E3
+  - Neopixel Light bar
+  - Metal Stock Creality Extruder
+  - Clone V6 Hotend w/ 50W heater
+  - Linear Adv enabled, not config'd
+  - Whole Printer Upgraded to 24 Volt
+  - Most "extra" features enabled
+
+
 # Marlin 3D Printer Firmware
 
 ![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg)
