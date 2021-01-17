@@ -28,7 +28,8 @@ _Version.h
 #
 applet/
 *.DS_Store
-
+**/desktop.ini
+desktop.ini
 #
 # Misc
 #
