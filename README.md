@@ -14,7 +14,7 @@ Custom Marlin 2.0.x for Ender 3 with an SKR E3 Turbo
   - Acceleration + Speed limits upped to more reasonable (but still quite usable) settings
   - Increased Probing Speed for faster Bed Levelling & Homing
   - Increased Bed Dimensions to utilize full Bed area
-  - Filament Runout Sensor enabled
+  - Filament Runout Sensor enabled, configured for active high (high when no filament present)
   - Print counter and timer enabled for some nice printer stats under "Info" 
   - Compatible with Standard CR-10/Ender-3 Display and BTT TFTxx's in Marlin mode.
   - Controller Fan enabled on header FAN1
