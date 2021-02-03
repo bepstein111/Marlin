@@ -4,14 +4,15 @@
   - TMC2209 on XYZ, LV8729 on E
     - Sensorless Homing on X+Y
   - BLTouch 3.1 w/ High Speed Probing
-    - UBL enabled
+    - UBL enabled (5x5)
   - TFT35-E3
   - Neopixel Light bar
   - Metal Stock Creality Extruder
   - Clone V6 Hotend w/ 50W heater
-  - Linear Adv enabled, not config'd
+  - Linear Adv enabled for Direct Drive
   - Whole Printer Upgraded to 24 Volt
   - Most "extra" features enabled
+    - Filament Runout
 
 
 # Marlin 3D Printer Firmware
