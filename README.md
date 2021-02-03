@@ -7,8 +7,10 @@
     - UBL enabled (5x5)
   - TFT35-E3
   - Neopixel Light bar
-  - Metal Stock Creality Extruder
-  - Clone V6 Hotend w/ 50W heater
+  - Cloned BMG Extruder
+  - Printermods.com MDD 1.3
+  - HeroMe Gen5 w/ Dual 5015 Blowers
+  - Cloned V6 Hotend w/ 50W heater
   - Linear Adv enabled for Direct Drive
   - Whole Printer Upgraded to 24 Volt
   - Most "extra" features enabled
