@@ -14,7 +14,8 @@
   - Linear Adv enabled for Direct Drive
   - Whole Printer Upgraded to 24 Volt
   - Most "extra" features enabled
-    - Filament Runout
+    - Smart Filament Runout
+    - M114
 
 
 # Marlin 3D Printer Firmware
