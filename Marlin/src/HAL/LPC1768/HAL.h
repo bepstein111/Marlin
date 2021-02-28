@@ -48,7 +48,7 @@ extern "C" volatile uint32_t _millis;
 #include <CDCSerial.h>
 
 // i2c uses 8-bit shifted address
-#define I2C_ADDRESS(A) uint8_t((A) << 1)
+// #define I2C_ADDRESS(A) uint8_t((A) << 1)     //Commenting out as noted in https://github.com/bigtreetech/BIGTREETECH-SKR-E3-Turbo/issues/16#issuecomment-766424766
 
 //
 // Default graphical display delays
